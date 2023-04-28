@@ -352,16 +352,18 @@ button {
     height: 50vh;
     right: 0;
     top: 0;
+    display: none;
   }
   .btn-onclick{
     position: absolute;
     top: 0;
     left: 0;
+    background: none;
 
   }
   
   .burger_close {
-    display: none;
+    display: flex;
   }
   
   
