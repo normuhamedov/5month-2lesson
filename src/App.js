@@ -2,7 +2,7 @@
 // import Figmaa from "./lesson2/Lsson2"
 // import Twitter from "./twitter/About"
 // import Homeee from "./twitter/Home"
-import React, { useState } from 'react';
+import React from 'react';
 import './App.css';
 import General from "./lesson2/General";
 

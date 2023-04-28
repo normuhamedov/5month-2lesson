@@ -4,7 +4,7 @@ import { MyContext } from './CounterExample';
 import './Figm.scss'
 import hero_img from "./img/hero_img.png"
 const Hero = () => {
-  const {counter, setCounter} = useContext(MyContext);
+  const {counter} = useContext(MyContext);
   
 
 

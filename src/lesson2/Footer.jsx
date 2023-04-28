@@ -1,5 +1,3 @@
-import { useState } from 'react';
-
 import './Figm.scss'
 import Footerlogo from './img/footerLogo.png';
 import Footerfasbook from './img/Facebook.png';
