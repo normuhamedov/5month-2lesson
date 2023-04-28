@@ -15,7 +15,7 @@ const Hero = () => {
           <div className="hero_left">
             <h5 className='hero_h5'>Chase the new Flavour</h5>
             <h1 className='hero_head'>The key to Fine dining</h1>
-            <p className='hero_text'>Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet tellus </p>
+            <p className='hero_text'>Sit tellus lobortis  senectus vivamus molestie. Condimentum volutpat morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet tellus </p>
             <button className='btn btn-outline-light'>Explore Menu</button>
           </div>
           <div className="hero_right ">
